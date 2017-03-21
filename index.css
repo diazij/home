@@ -1,6 +1,8 @@
 body
 {
-	background:lightgray
+	background:lightgray;
+	display:block;
+	margin:auto;
 }/*body*/
 h1
 {
@@ -14,8 +16,3 @@ p
 	font-family:cursive;
 	text-indent:1em;
 }/*p*/
-img
-{
-	display:block;
-	margin:auto;
-}/*img*/	
