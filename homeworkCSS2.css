@@ -1,0 +1,16 @@
+body
+{
+	background:black;
+	color:white;
+	border-style:dotted solid dashed;
+	border-color:white;
+}/*body*/
+h1
+{
+	background:white;
+	color:darkred;
+}/*h1*/
+p
+{
+	text-indent:1em;
+}/*p*/
