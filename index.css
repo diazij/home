@@ -10,3 +10,8 @@ h1
 	background:green;
 	text-align:center;
 }/*h1*/
+p
+{
+	font-family:cursive;
+	text-indent:1em;
+}/*p*/
